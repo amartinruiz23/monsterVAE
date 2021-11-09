@@ -1,3 +1,3 @@
 # monsterVAE
 
-Original images [here](https://veekun.com/dex/downloads), forth and fifth generation sprites used.
+Original images [here](https://veekun.com/dex/downloads), fourth and fifth generation sprites used.
