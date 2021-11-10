@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "monstervae"
+version = "0.1.0"
+description = "Code and models for generating Pokémon sprites"
+authors = ["Antonio Martín Ruiz, Daniel Pozo Escalona <dani@bourbaki.xyz>"]
+
+[tool.poetry.dependencies]
+python = "3.9"
+torch = "^1.10.0"
+torchvision = "^0.11.1"
+numpy = "^1.21.4"
+matplotlib = "^3.4.3"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.5.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
